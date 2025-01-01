@@ -1,0 +1,56 @@
+.register{
+    width: 100%;
+    height: 750px;
+}
+
+.register a{
+    font-family: "Ysabeau SC", serif;
+    color: white;
+    text-decoration: none;
+}
+
+.register .box{
+    width: 80%;
+    max-width: 500px;
+    height: fit-content;
+    border: 4px solid darkblue;
+    background-color: lightcyan;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    text-align: center;
+}
+.register h1{
+    font-family: "Ysabeau SC", serif;
+    color: darkblue;
+}
+.register h2{
+    color: black;
+}
+.register input{
+    width: 90%;
+    height: 40px;
+    margin-top: 30px;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+
+}
+.register button{
+    width: 90%;
+    height: 40px;
+    font-family: "Ysabeau SC", serif;
+    background-color: darkblue;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+}
+
+@media screen and (max-width:800px) {
+ .register{
+    margin-bottom: 70px;
+ }   
+}

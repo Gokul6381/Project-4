@@ -1,0 +1,97 @@
+.home{
+    width: 100%;
+    height: fit-content;
+    margin-top: 100px;
+    font-family: "Ysabeau SC", serif;
+}
+
+.home .box h1{
+    color: darkblue;
+    text-align: center;
+}
+
+.home .box{
+    width: 85%;
+    height: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightcyan;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.home .box .datas button{
+    margin: 30px;
+    font-family: "Ysabeau SC", serif;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 5px;
+    color: red;
+    font-size: 18px;
+}
+
+.home .box table{
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    border: 2px solid darkblue;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.home .box table td{
+    width: 20%;
+}
+
+.home .box h2{
+    color: darkblue;
+}
+ 
+.home .box .datas table button{
+    font-family: "Ysabeau SC", serif;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    color: darkblue;
+    font-size: 18px;
+    margin: 0;
+}
+
+#no td{
+    width: 50px;
+}
+
+
+.home .box .noData{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+}
+
+.home .box .noData h1{
+    font-size: 60px;
+    margin-top: 10%
+}
+.home .box .noData h2{
+    text-align: center;
+    font-size: 28px;
+    margin-top: 30px;
+}
+
+.home .box .noData button{
+        margin: 30px;
+        font-family: "Ysabeau SC", serif;
+        width: 90px;
+        height: 30px;
+        text-align: center;
+        border: 2px solid red;
+        border-radius: 5px;
+        color: red;
+        font-size: 18px;
+    }
